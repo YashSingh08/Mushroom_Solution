@@ -1,20 +1,20 @@
 # Mushroom_Solution
 Contains my solution of DSG provided Mushroom Dataset
 
-Name:            Yash Kumar Singh
-Branch:          Production and Industrial Engineering (2nd Year)
-Enrolment No.:   16119040
-Email:           yash.singh.k08@gmail.com
-Mobile:          8755518416
+* Name:            Yash Kumar Singh
+* Branch:          Production and Industrial Engineering (2nd Year)
+* Enrolment No.:   16119040
+* Email:           yash.singh.k08@gmail.com
+* Mobile:          8755518416
 
 The datasets are provided within the folder.
 
-Problem Description:
+**Problem Description**:
 
 The dataset includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family Mushroom drawn from The Audubon Society Field Guide to North American Mushrooms (1981). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one. The aim of this problem is to identify the poisonous and edible class. 
 The evaluation matrix is (number of correct predictions/ total number of predictions).
 
-Data Description:
+**Data Description**:
 
 1. Attribute Information: (classes: edible=e, poisonous=p)
 2. cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
