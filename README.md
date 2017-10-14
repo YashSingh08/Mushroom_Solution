@@ -1,6 +1,12 @@
 # Mushroom_Solution
 Contains my solution of DSG provided Mushroom Dataset
 
+Name:            Yash Kumar Singh
+Branch:          Production and Industrial Engineering (2nd Year)
+Enrolment No.:   16119040
+Email:           yash.singh.k08@gmail.com
+Mobile:          8755518416
+
 The datasets are provided within the folder.
 
 Problem Description:
